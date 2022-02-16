@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Assignment Solution for Module 2 </title>
+  </head>
+<body>
+  <div class="container">
+    <div class="row">
 
-You can use the [editor on GitHub](https://github.com/TheLastHouseHippo/module2-solution/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+    <h1 class="menu-title">Our menu</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+      <div class="col-lg-4">
+        <div class="text">
+          <div class="title" id="chicken-title">
+            <h3>Chicken</h3>
+          </div>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pharetra porttitor dolor in pulvinar. Nam eget est nisl. Cras ut semper nulla. Sed venenatis blandit consectetur. Nulla varius venenatis risus.
+          </p>
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <div class="text">
+         <div class="title" id="beef-title">
+          <h3>Beef</h3>
+        </div>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pharetra porttitor dolor in pulvinar. Nam eget est nisl. Cras ut semper nulla. Sed venenatis blandit consectetur. Nulla varius venenatis risus.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheLastHouseHippo/module2-solution/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+        </p>
+      </div>
+    </div>
+    <div class="col-lg-4 tablet">
+      <div class="text">
+       <div class="title" id="sushi-title">
+        <h3>Sushi</h3>
+      </div>
+      <p>
+       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pharetra porttitor dolor in pulvinar. Nam eget est nisl. Cras ut semper nulla. Sed venenatis blandit consectetur. Nulla varius venenatis risus.
+    </div>
+  </div>
+</div>
+</div>
+</body>
+</html>
